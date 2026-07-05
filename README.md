@@ -1,6 +1,7 @@
 CBN DMB Interest Rates Pipeline | AWS ETL + Power BI
 
-<img width="740" height="413" alt="dashboard" src="https://github.com/user-attachments/assets/a66a4218-9faf-4733-8b43-0189a4e45f21" />
+<img width="740" height="413" alt="dashboard" src="https://github.com/user-attachments/assets/d81fab87-6e04-40bb-aa61-977b78325cad" />
+
 
 
 Overview
